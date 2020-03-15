@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 import media from 'styled-media-query'
-import AniLink from 'gatsby-plugin-transition-link/Anilink'
+import AniLink from 'gatsby-plugin-transition-link/AniLink'
 
 export const MenuBarWrapper = styled.aside`
   align-items: center;
